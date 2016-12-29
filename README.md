@@ -8,3 +8,4 @@ http://amzn.asia/dbRptfC
 | 3.TemplateMethod | 2016/11/26 |  |
 | 4.FactoryMethod | 2016/11/27 |  |
 | 5.Singleton | 2016/12/20 |  |
+| 6.Prototype | 2016/12/29 |  |
